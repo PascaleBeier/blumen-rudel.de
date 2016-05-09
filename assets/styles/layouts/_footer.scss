@@ -1,0 +1,21 @@
+footer.content-info {
+  background: $brand-primary;
+  color: #fff !important;
+  padding-bottom: 2.3rem;
+  margin-top: 2.3rem;
+  h1,
+  i.fa,
+  a {
+    color: #fff !important;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  ul {
+    padding-left: 0;
+    list-style: none;
+    li {
+      display: block;
+    }
+  }
+}
