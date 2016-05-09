@@ -1,0 +1,16 @@
+.feature i,
+.feature h4 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.feature {
+  box-shadow: 1px 1px 5px $gray-light;
+}
+.feature h4 {
+  border-top-left-radius: $border-radius-base;
+  border-top-right-radius: $border-radius-base;
+  padding: .5rem;
+  color: #fff;
+  background: $brand-primary;
+}
